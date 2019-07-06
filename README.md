@@ -1,2 +1,2 @@
-# share-graphite-daemon
-Share Graphite Daemon
+# share-graphite
+Share Graphite
